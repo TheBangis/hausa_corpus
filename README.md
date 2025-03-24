@@ -1,1 +1,1 @@
-# hausa_corpus
+# A dataset for text classification in Hausa
